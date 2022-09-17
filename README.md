@@ -1,7 +1,8 @@
-# Drone_field
-*Final Drone Repository Ashley Peake and Joe McCalmon WFU 2020-Present*
+# Autonomous Controllers for UAVs using DRL
 
-This repository contains everything neccessary to run our drone navigation algorithm based on two deep learning networks.
+This repository contains everything neccessary to run our drone navigation algorithms based on two deep learning networks based on the following publicaitons:
+1) Ashley Peake, Joe McCalmon, Yixin Zhang, Daniel Myers, Sarra Alqahtani, Victor Paúl Pauca, “Deep Reinforcement Learning for Adaptive Exploration of Unknown Environments”, the IEEE International Conference on Unmanned Aircraft Systems, (ICUAS ’21).
+2) Ashley Peake*, Joe McCalmon*, Yixin Zhang, Benjamin Raiford, and Sarra Alqahtani, “Wilderness Search and Rescue Missions using Deep Reinforcement Learning,” IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2020.
 
 ## Running
 
